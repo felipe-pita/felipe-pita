@@ -1,6 +1,6 @@
 <p>
-  <a href="https://www.linkedin.com/in/felipedefarias/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://codepen.io/felipedefarias/"><img src="https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/felipedefarias/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://codepen.io/felipedefarias/"><img src="https://img.shields.io/badge/codepen-%23000000.svg?&style=for-the-badge&logo=codepen&logoColor=white" /></a>
 </p>
 
 <br>
@@ -16,18 +16,17 @@
 
 **Tecnologias que trabalho ou trabalhei**
 
-![jQuery](https://img.shields.io/badge/-jQuery-494649?style=flat-square&logoColor=fff&logo=jQuery)
+![Woocommerce](https://img.shields.io/badge/-Woocommerce-494649?style=flat-square&logoColor=fff&logo=Woocommerce)
+![Wordpress](https://img.shields.io/badge/-Wordpress-494649?style=flat-square&logoColor=fff&logo=Wordpress)
 ![Sass](https://img.shields.io/badge/-Sass-494649?style=flat-square&logoColor=fff&logo=Sass)
-![Typescript](https://img.shields.io/badge/-Typescript-494649?style=flat-square&logoColor=fff&logo=Typescript)
+![BEM](https://img.shields.io/badge/-BEM-494649?style=flat-square&logoColor=fff&logo=BEM)
+![jQuery](https://img.shields.io/badge/-jQuery-494649?style=flat-square&logoColor=fff&logo=jQuery)
+![MySQL](https://img.shields.io/badge/-MySQL-494649?style=flat-square&logoColor=fff&logo=MySQL)
 ![React](https://img.shields.io/badge/-React-494649?style=flat-square&logoColor=fff&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-494649?style=flat-square&logoColor=fff&logo=Angular)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-494649?style=flat-square&logoColor=fff&logo=Bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-494649?style=flat-square&logoColor=fff&logo=MySQL)
+![Typescript](https://img.shields.io/badge/-Typescript-494649?style=flat-square&logoColor=fff&logo=Typescript)
 ![NGINX](https://img.shields.io/badge/-NGINX-494649?style=flat-square&logoColor=fff&logo=NGINX)
 ![Apache](https://img.shields.io/badge/-Apache-494649?style=flat-square&logoColor=fff&logo=Apache)
-![Wordpress](https://img.shields.io/badge/-Wordpress-494649?style=flat-square&logoColor=fff&logo=Wordpress)
-![Woocommerce](https://img.shields.io/badge/-Woocommerce-494649?style=flat-square&logoColor=fff&logo=Woocommerce)
-![BEM](https://img.shields.io/badge/-BEM-494649?style=flat-square&logoColor=fff&logo=BEM)
 
 ![Figma](https://img.shields.io/badge/-Figma-494649?style=flat-square&logoColor=fff&logo=Figma)
 ![Sketch](https://img.shields.io/badge/-Sketch-494649?style=flat-square&logoColor=fff&logo=Sketch)
