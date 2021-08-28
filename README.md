@@ -38,9 +38,9 @@
 
 **Estudando**
 
+![Vue](https://img.shields.io/badge/-Vue.js-494649?style=for-the-badge&logo=Vue.js)
 ![Python](https://img.shields.io/badge/-Python-494649?style=for-the-badge&logo=Python)
 ![React](https://img.shields.io/badge/-React-494649?style=for-the-badge&logo=React)
-![Vue](https://img.shields.io/badge/-Vue.js-494649?style=for-the-badge&logo=Vue.js)
 
 <br>
 
