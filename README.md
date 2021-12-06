@@ -8,26 +8,24 @@
 **Stack**
 
 ![PHP](https://img.shields.io/badge/-PHP-494649?logo=PHP&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-494649?logo=PHP&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-494649?logo=JavaScript&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-494649?logo=HTML5&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-494649?logo=CSS3&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-494649?logo=JavaScript&style=for-the-badge)
 
 <br>
 
 **Tools**
 
 ![Laravel](https://img.shields.io/badge/-Laravel-494649?logo=Laravel&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-494649?logo=PostgreSQL&style=for-the-badge)
+![Vue](https://img.shields.io/badge/-Vue.js-494649?logo=Vue.js&style=for-the-badge)
 ![Woocommerce](https://img.shields.io/badge/-Woocommerce-494649?logo=Woocommerce&style=for-the-badge)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-494649?logo=Wordpress&style=for-the-badge)
 ![Sass](https://img.shields.io/badge/-Sass-494649?logo=Sass&style=for-the-badge)
 ![BEM](https://img.shields.io/badge/-BEM-494649?logo=BEM&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/-jQuery-494649?logo=jQuery&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-494649?logo=MySQL&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-494649?logo=React&style=for-the-badge)
-![Angular](https://img.shields.io/badge/-Angular-494649?logo=Angular&style=for-the-badge)
-![Typescript](https://img.shields.io/badge/-Typescript-494649?logo=Typescript&style=for-the-badge)
-![NGINX](https://img.shields.io/badge/-NGINX-494649?logo=NGINX&style=for-the-badge)
-![Apache](https://img.shields.io/badge/-Apache-494649?logo=Apache&style=for-the-badge)
 
 ![Figma](https://img.shields.io/badge/-Figma-494649?logo=Figma&style=for-the-badge)
 ![Sketch](https://img.shields.io/badge/-Sketch-494649?logo=Sketch&style=for-the-badge)
@@ -38,7 +36,6 @@
 
 **Training**
 
-![Vue](https://img.shields.io/badge/-Vue.js-494649?style=for-the-badge&logo=Vue.js)
 ![Python](https://img.shields.io/badge/-Python-494649?style=for-the-badge&logo=Python)
 
 <br>
