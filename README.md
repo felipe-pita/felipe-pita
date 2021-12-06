@@ -5,7 +5,7 @@
 
 <br>
 
-**Linguagens**
+**Stack**
 
 ![PHP](https://img.shields.io/badge/-PHP-494649?logo=PHP&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-494649?logo=HTML5&style=for-the-badge)
@@ -14,7 +14,7 @@
 
 <br>
 
-**Tecnologias que trabalho ou trabalhei**
+**Tools**
 
 ![Laravel](https://img.shields.io/badge/-Laravel-494649?logo=Laravel&style=for-the-badge)
 ![Woocommerce](https://img.shields.io/badge/-Woocommerce-494649?logo=Woocommerce&style=for-the-badge)
@@ -36,11 +36,10 @@
 
 <br>
 
-**Estudando**
+**Training**
 
 ![Vue](https://img.shields.io/badge/-Vue.js-494649?style=for-the-badge&logo=Vue.js)
 ![Python](https://img.shields.io/badge/-Python-494649?style=for-the-badge&logo=Python)
-![React](https://img.shields.io/badge/-React-494649?style=for-the-badge&logo=React)
 
 <br>
 
