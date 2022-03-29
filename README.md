@@ -8,7 +8,7 @@
 **Stack**
 
 ![PHP](https://img.shields.io/badge/-PHP-494649?logo=PHP&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-494649?logo=PHP&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-494649?logo=SQL&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-494649?logo=JavaScript&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-494649?logo=HTML5&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-494649?logo=CSS3&style=for-the-badge)
