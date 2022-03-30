@@ -2,7 +2,7 @@
 I'm a Full-Stack Developer working in Curtitiba, Paraná - Brazil.
 
 #### NOW
-- ✨ Working on @Packeasy, an startup incubated by @Nerdstore, focused on make tools for e-commerce
+- ✨ Working on [@Packeasy](https://github.com/packeasy), an startup incubated by [@Nerdstore](https://github.com/Nerdstore), focused on make tools for e-commerce
 - 📖 Studying: Laravel, Phyton and algorithms
 
 #### BIO
