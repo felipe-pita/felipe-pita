@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Full-Stack Developer working in Curtitiba, Paraná - Brazil.
+I'm a Full-Stack Developer working in Curitiba, Paraná - Brazil.
 
 #### NOW
 - ✨ Working on [@Packeasy](https://github.com/packeasy), an startup incubated by [@Nerdstore](https://github.com/Nerdstore), focused on make tools for e-commerce
