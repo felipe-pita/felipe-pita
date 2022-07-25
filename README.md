@@ -12,7 +12,7 @@ I'm a Full-Stack Developer working in Curitiba, Paraná - Brazil.
 - 📫 Reach me: pita@packeasy.io or [Linkedin](www.linkedin.com/in/felipedefarias)
 - 💅 @see: [My codepen](https://codepen.io/felipedefarias/pens/popular) with css experiments
 
-### EDUCATION
+#### EDUCATION
 - 🖥️ IT technician (2008-2010) `Java`, `Delphi`, `Pascal`, `PHP`, `DB`, `VB`
 - 👁️ Graphic design degree (2012-2015)
 - 👁️ Visual communication (2009-2010)
