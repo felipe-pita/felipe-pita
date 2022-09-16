@@ -6,7 +6,7 @@ I'm a Full-Stack Developer working in Curitiba, Paraná - Brazil.
 - 📖 Studying: Laravel, testing, design patterns
 
 #### BIO
-- ⚙️ I use daily: `.php`, `.py`, `.js`, `.html`, `.css`, `.scss`, `.vue`, `.blade`, `.sql`, `.svg`
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.scss`, `.vue`, `.blade`, `.sql`, `.svg`
 - 👴 Professional exp.: 11yrs+
 - 🧑‍🏭 Personal website: [felipe-pita.com](https://felipe-pita.com)
 - 📫 Reach me: felipedefarias@live.com or [Linkedin](www.linkedin.com/in/felipedefarias)
