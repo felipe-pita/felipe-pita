@@ -2,8 +2,8 @@
 I'm a Full-Stack Developer working in Curitiba, Paraná - Brazil.
 
 #### NOW
-- ✨ Working at [@melhorenvio](https://github.com/melhorenvio)
-- 📖 Studying: Laravel, testing, design patterns
+- 💙 Working at [@melhorenvio](https://github.com/melhorenvio)👍
+- 📖 Studying: Laravel, testing, SOLID
 
 #### BIO
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.scss`, `.vue`, `.blade`, `.sql`, `.svg`
