@@ -7,7 +7,7 @@ I'm a Full-Stack Developer working in Curitiba, Paraná - Brazil.
 
 #### BIO
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.scss`, `.vue`, `.blade`, `.sql`, `.svg`
-- 👴 Professional exp.: 11yrs+
+- 👴 Professional exp.: 12yrs+
 - 🧑‍🏭 Personal website: [felipe-pita.com](https://felipe-pita.com)
 - 📫 Reach me: felipedefarias@live.com or [Linkedin](www.linkedin.com/in/felipedefarias)
 - 💅 @see: [My codepen](https://codepen.io/felipedefarias/pens/popular) with css experiments
