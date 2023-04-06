@@ -12,7 +12,7 @@ I'm a Full-Stack Developer working in Curitiba, Paraná - Brazil.
 💅 @see: [My codepen](https://codepen.io/felipedefarias/pens/popular) with css experiments <br>
 
 #### EDUCATION
-🖥️ IT technician (2008-2010) `PHP`, `JS`, `Java`, `PHP`, `Delphi`, `Pascal`, `MySql`, `VB` <br>
+🖥️ IT technician (2008-2010) `PHP`, `JS`, `Java`, `Delphi`, `Pascal`, `MySql`, `VB` <br>
 👁️ Graphic design degree (2012-2015) <br>
 👁️ Visual communication (2009-2010) <br>
 
