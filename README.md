@@ -1,7 +1,6 @@
 ### Hi there 👋
 I'm a Full-Stack Developer working in Curitiba, Paraná - Brazil.
 
-#### NOW
 💙 Working at [@melhorenvio](https://github.com/melhorenvio)👍 <br>
 📖 Studying: web APIs and how to effectively work with legacy code
 
