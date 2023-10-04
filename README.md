@@ -2,7 +2,6 @@
 I'm a Full-Stack Developer working in Curitiba, Paraná - Brazil.
 
 💙 Working at [@melhorenvio](https://github.com/melhorenvio)👍 <br>
-📖 Studying: web APIs and how to effectively work with legacy code
 
 #### BIO
 ⚙️ I use daily: `.php` `.js` `.html` `.css` `.scss` `.vue` `.blade` `.sql` <br>
